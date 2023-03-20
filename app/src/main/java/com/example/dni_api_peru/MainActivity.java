@@ -60,6 +60,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void obtener(){
+
+        //prueba git
         //URL de la pagina apisperu
         //en dni enviamos el que ponemos en el edittext
         String url = "https://dniruc.apisperu.com/api/v1/dni/"+dni+"?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Imp1YXIuZXptYW40QGdtYWlsLmNvbSJ9.Nkqu_IqVWEqRvMJ_CHoVA5wn82-GQJInaMr_yVXvSF0";
